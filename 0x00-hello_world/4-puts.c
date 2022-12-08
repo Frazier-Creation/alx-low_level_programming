@@ -1,7 +1,11 @@
 #include <stdio.h>
-/*hello put*/
+/**
+ * main - Entry point
+ *
+ * return: Always 0 (Success)
+ */
 int main(void)
-{	        
-  put("\"Programming is like building a multilingual puzzl");
-  return(0);
+{
+	puts("\"Programming is like building a multilingual puzzl");
+	return (0);
 }
