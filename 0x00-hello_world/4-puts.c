@@ -1,15 +1,7 @@
 #include <stdio.h>
-
-/*Hello, Put*/
-
+/*hello put*/
 int main(void)
-
-{
-
-int put;
-
-printf("Programming is like building a multilingual puzzle);
-
-return(0);
-
+{	        
+  put("\"Programming is like building a multilingual puzzl");
+  return(0);
 }
