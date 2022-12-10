@@ -20,14 +20,14 @@ int main(void)
 	{
 		printf("and is greater than 5");
 	}
-	if ('f==0')
+	if (f == 0)
 	{
 		printf("and is 0");
 	}
-	if (f < 6 && f '!=0')
+	if (f < 6 && f != 0)
 	{
 		printf("and is less than 6 and not 0");
 	}
-	print f("\n");
+	printf("\n");
 	return (0);
 }
