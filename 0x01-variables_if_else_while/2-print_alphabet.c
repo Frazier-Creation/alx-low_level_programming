@@ -11,10 +11,10 @@ int main(void)
 
 	 f = 'a';
 	 while
-		 (f <= 'z'){
+		 (f <= 'z') { 
 			 putchar(f);
-			 f++
+			 f++;
 		 }
-	 putchart("\n");
+	 putchar('\n');
 	 return(a);
 }
