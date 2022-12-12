@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main -print out size of data type in c
- * code by frazier omondi
- * return: 0
+ *main -print out size of data type in c
+ *code by Frazier Omondi
+ *Return: AAlways 0 (success)
  */
 int main(void)
 {
