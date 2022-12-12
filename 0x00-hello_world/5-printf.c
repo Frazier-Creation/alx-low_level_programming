@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main -printf
- * return: o
+ *main - Entry point
+ *
+ *Return: Alwats 0 (success)
  */
 int main(void)
 
