@@ -10,10 +10,10 @@ int mai(void)
 	char f;
 
 	f = 'a';
-	while 
+	while
 		(f <= 'z') {
-			if (( f != 'q' && f != 'e') && f <= 'z')
-				putchar(f);
+			if ((f != 'q' && f != 'e') && f <= 'z')
+			putchar(f);
 			f++;
 		}
 	putchar('\n');
