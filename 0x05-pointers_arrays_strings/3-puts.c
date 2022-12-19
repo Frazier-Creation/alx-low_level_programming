@@ -8,8 +8,6 @@
  */
 void _puts(char *str)
 {
-	char *str;
-
 
 	for (; *str != '\0'; str++)
 	{
